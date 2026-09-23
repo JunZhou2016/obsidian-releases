@@ -55550,5 +55550,12 @@
     "author": "mimo",
     "description": "Import Readest web highlights and book covers into editable notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "keptan/obsidian-readest"
+  },
+  {
+    "id": "annotation-bridge",
+    "name": "Annotation Bridge",
+    "author": "JunZhou2016",
+    "description": "Turn scattered PDF/EPUB annotations and ==highlights== across your vault into one clean, linkable, review-ready index note.",
+    "repo": "JunZhou2016/obsidian-annotation-bridge"
   }
 ]
